@@ -4,4 +4,4 @@ implemented using lwIP RAW API and running on Xilinx Zynq Zedboard platform.
 
 Tested on Xilinx SDK 2018.3 / lwIP 202
 
-Forked from https://github.com/mohamed/zynq\_echo\_servers
+Forked from https://github.com/mohamed/zynq_echo_servers
