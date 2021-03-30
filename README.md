@@ -2,6 +2,6 @@
 This project contains two UDP echo servers (one using C, the other C++)
 implemented using lwIP RAW API and running on Xilinx Zynq Zedboard platform.
 
-Tested on Xilinx SDK 2018.3 / lwIP 202
+Tested on Xilinx SDK 2018.3 / lwIP 202 & lwIP 211
 
 Forked from https://github.com/mohamed/zynq_echo_servers
